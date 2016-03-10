@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dato
+comment0.target=Nodo(java.lang.String)
+comment1.params=succ
+comment1.target=void\ setSuccessivo(Nodo)
+comment2.params=
+comment2.target=Nodo\ getSuccessivo()
+comment3.params=
+comment3.target=java.lang.String\ getDato()
+numComments=4
