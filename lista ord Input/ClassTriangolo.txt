@@ -1,0 +1,24 @@
+package provatriangolo;
+
+/**Triangolo.java
+ *
+ * @author vincenza
+ */
+public class Triangolo {
+    private float a,b,c;
+    
+    public Triangolo(float v1,float v2,float v3){
+      a=v1;
+      b=v2;  
+      c=v3;  
+    }
+    
+    public float perimetro(){
+        return a+b+c;
+    }
+    
+    public float area(){
+        float p=perimetro()/2;
+        return (float)Math.sqrt( p*(p-a)*(p-b)*(p-c) );
+    }
+}

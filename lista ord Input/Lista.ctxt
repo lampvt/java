@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lista()
+comment1.params=str
+comment1.target=void\ inserisci(java.lang.String)
+comment2.params=str
+comment2.target=void\ elimina(java.lang.String)
+comment3.params=str
+comment3.target=boolean\ contiene(java.lang.String)
+comment4.params=
+comment4.target=void\ stampa()
+numComments=5
